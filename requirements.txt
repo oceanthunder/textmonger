@@ -1,0 +1,5 @@
+textstat
+tabulate
+pyfiglet
+spacy
+textblob
