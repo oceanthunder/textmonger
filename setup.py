@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name="textmonger",
-    version="1.0.1",
+    version="1.0.3",
     project_urls={
-        "Source": "https://github.com/oceanthunder/The-Text-Monger",
+        "Source": "https://github.com/oceanthunder/textmonger",
     },
     description="A text analysis tool with readability, power word analysis, and NER visualization.",
     long_description=open("README.md").read(),
