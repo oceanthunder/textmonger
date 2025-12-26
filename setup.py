@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="textmonger",
-    version="1.0.3",
+    version="1.0.4",
     project_urls={
         "Source": "https://github.com/oceanthunder/textmonger",
     },
@@ -19,7 +19,7 @@ setup(
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
+        "License :: OSI Approved :: The Unlicense (Unlicense)",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
